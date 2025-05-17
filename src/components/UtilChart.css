@@ -1,0 +1,10 @@
+.UtilChart__container {
+  width: 100%;
+  height: 300px;
+}
+.UtilChart__chart-title {
+  /* text-align: center; */
+}
+.UtilChart__line-chart {
+  /* margin: 30 30 0 0; */
+}
