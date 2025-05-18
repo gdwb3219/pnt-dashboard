@@ -1,0 +1,44 @@
+.tab-pannel {
+  background-color: orange;
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+}
+.upper-chart {
+  background-color: skyblue;
+  height: 35vh;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+}
+
+.chart-view-area {
+  height: 100%;
+  max-width: 920px;
+  display: flex;
+  flex-direction: column;
+  background-color: yellowgreen;
+}
+.chart-row {
+  display: flex;
+  flex-direction: row;
+  height: 100%;
+  overflow-x: auto;
+  padding: 5px;
+}
+
+.single-chart {
+  background-color: whitesmoke;
+  height: 100%;
+  min-width: 300px;
+  margin: 0 2px;
+}
+
+.chart-setting {
+  background-color: yellow;
+  width: 30%;
+  height: 100%;
+}
+.lower-chart {
+  background-color: aqua;
+}

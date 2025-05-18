@@ -1,0 +1,2163 @@
+[
+  {
+    "MONTH": 1,
+    "AREA": "PKG",
+    "SITE": "IC",
+    "OPER": "B/G",
+    "FACTOR": "투자가동률",
+    "VALUE": 0.189051591
+  },
+  {
+    "MONTH": 1,
+    "AREA": "PKG",
+    "SITE": "IC",
+    "OPER": "B/G",
+    "FACTOR": "NO WIP",
+    "VALUE": 0.810948409
+  },
+  {
+    "MONTH": 1,
+    "AREA": "PKG",
+    "SITE": "IC",
+    "OPER": "B/G",
+    "FACTOR": "LINEARITY",
+    "VALUE": 0.05
+  },
+  {
+    "MONTH": 1,
+    "AREA": "PKG",
+    "SITE": "IC",
+    "OPER": "D/A",
+    "FACTOR": "투자가동률",
+    "VALUE": 0.980600291
+  },
+  {
+    "MONTH": 1,
+    "AREA": "PKG",
+    "SITE": "IC",
+    "OPER": "D/A",
+    "FACTOR": "NO WIP",
+    "VALUE": 0.019399709
+  },
+  {
+    "MONTH": 1,
+    "AREA": "PKG",
+    "SITE": "IC",
+    "OPER": "D/A",
+    "FACTOR": "LINEARITY",
+    "VALUE": 0.05
+  },
+  {
+    "MONTH": 1,
+    "AREA": "PKG",
+    "SITE": "IC",
+    "OPER": "FCB",
+    "FACTOR": "투자가동률",
+    "VALUE": 0.517281349
+  },
+  {
+    "MONTH": 1,
+    "AREA": "PKG",
+    "SITE": "IC",
+    "OPER": "FCB",
+    "FACTOR": "NO WIP",
+    "VALUE": 0.482718651
+  },
+  {
+    "MONTH": 1,
+    "AREA": "PKG",
+    "SITE": "IC",
+    "OPER": "FCB",
+    "FACTOR": "LINEARITY",
+    "VALUE": 0.05
+  },
+  {
+    "MONTH": 1,
+    "AREA": "PKG",
+    "SITE": "IC",
+    "OPER": "W/B",
+    "FACTOR": "투자가동률",
+    "VALUE": 0.526535815
+  },
+  {
+    "MONTH": 1,
+    "AREA": "PKG",
+    "SITE": "IC",
+    "OPER": "W/B",
+    "FACTOR": "NO WIP",
+    "VALUE": 0.473464185
+  },
+  {
+    "MONTH": 1,
+    "AREA": "PKG",
+    "SITE": "IC",
+    "OPER": "W/B",
+    "FACTOR": "LINEARITY",
+    "VALUE": 0.05
+  },
+  {
+    "MONTH": 1,
+    "AREA": "PKG",
+    "SITE": "IC",
+    "OPER": "S/G",
+    "FACTOR": "투자가동률",
+    "VALUE": 0.52417784
+  },
+  {
+    "MONTH": 1,
+    "AREA": "PKG",
+    "SITE": "IC",
+    "OPER": "S/G",
+    "FACTOR": "NO WIP",
+    "VALUE": 0.47582216
+  },
+  {
+    "MONTH": 1,
+    "AREA": "PKG",
+    "SITE": "IC",
+    "OPER": "S/G",
+    "FACTOR": "LINEARITY",
+    "VALUE": 0.05
+  },
+  {
+    "MONTH": 2,
+    "AREA": "PKG",
+    "SITE": "IC",
+    "OPER": "B/G",
+    "FACTOR": "투자가동률",
+    "VALUE": 0.932372162
+  },
+  {
+    "MONTH": 2,
+    "AREA": "PKG",
+    "SITE": "IC",
+    "OPER": "B/G",
+    "FACTOR": "NO WIP",
+    "VALUE": 0.067627838
+  },
+  {
+    "MONTH": 2,
+    "AREA": "PKG",
+    "SITE": "IC",
+    "OPER": "B/G",
+    "FACTOR": "LINEARITY",
+    "VALUE": 0.05
+  },
+  {
+    "MONTH": 2,
+    "AREA": "PKG",
+    "SITE": "IC",
+    "OPER": "D/A",
+    "FACTOR": "투자가동률",
+    "VALUE": 0.519075741
+  },
+  {
+    "MONTH": 2,
+    "AREA": "PKG",
+    "SITE": "IC",
+    "OPER": "D/A",
+    "FACTOR": "NO WIP",
+    "VALUE": 0.480924259
+  },
+  {
+    "MONTH": 2,
+    "AREA": "PKG",
+    "SITE": "IC",
+    "OPER": "D/A",
+    "FACTOR": "LINEARITY",
+    "VALUE": 0.05
+  },
+  {
+    "MONTH": 2,
+    "AREA": "PKG",
+    "SITE": "IC",
+    "OPER": "FCB",
+    "FACTOR": "투자가동률",
+    "VALUE": 0.101202153
+  },
+  {
+    "MONTH": 2,
+    "AREA": "PKG",
+    "SITE": "IC",
+    "OPER": "FCB",
+    "FACTOR": "NO WIP",
+    "VALUE": 0.898797847
+  },
+  {
+    "MONTH": 2,
+    "AREA": "PKG",
+    "SITE": "IC",
+    "OPER": "FCB",
+    "FACTOR": "LINEARITY",
+    "VALUE": 0.05
+  },
+  {
+    "MONTH": 2,
+    "AREA": "PKG",
+    "SITE": "IC",
+    "OPER": "W/B",
+    "FACTOR": "투자가동률",
+    "VALUE": 0.628698405
+  },
+  {
+    "MONTH": 2,
+    "AREA": "PKG",
+    "SITE": "IC",
+    "OPER": "W/B",
+    "FACTOR": "NO WIP",
+    "VALUE": 0.371301595
+  },
+  {
+    "MONTH": 2,
+    "AREA": "PKG",
+    "SITE": "IC",
+    "OPER": "W/B",
+    "FACTOR": "LINEARITY",
+    "VALUE": 0.05
+  },
+  {
+    "MONTH": 2,
+    "AREA": "PKG",
+    "SITE": "IC",
+    "OPER": "S/G",
+    "FACTOR": "투자가동률",
+    "VALUE": 0.276710245
+  },
+  {
+    "MONTH": 2,
+    "AREA": "PKG",
+    "SITE": "IC",
+    "OPER": "S/G",
+    "FACTOR": "NO WIP",
+    "VALUE": 0.723289755
+  },
+  {
+    "MONTH": 2,
+    "AREA": "PKG",
+    "SITE": "IC",
+    "OPER": "S/G",
+    "FACTOR": "LINEARITY",
+    "VALUE": 0.05
+  },
+  {
+    "MONTH": 3,
+    "AREA": "PKG",
+    "SITE": "IC",
+    "OPER": "B/G",
+    "FACTOR": "투자가동률",
+    "VALUE": 0.295405493
+  },
+  {
+    "MONTH": 3,
+    "AREA": "PKG",
+    "SITE": "IC",
+    "OPER": "B/G",
+    "FACTOR": "NO WIP",
+    "VALUE": 0.704594507
+  },
+  {
+    "MONTH": 3,
+    "AREA": "PKG",
+    "SITE": "IC",
+    "OPER": "B/G",
+    "FACTOR": "LINEARITY",
+    "VALUE": 0.05
+  },
+  {
+    "MONTH": 3,
+    "AREA": "PKG",
+    "SITE": "IC",
+    "OPER": "D/A",
+    "FACTOR": "투자가동률",
+    "VALUE": 0.556276576
+  },
+  {
+    "MONTH": 3,
+    "AREA": "PKG",
+    "SITE": "IC",
+    "OPER": "D/A",
+    "FACTOR": "NO WIP",
+    "VALUE": 0.443723424
+  },
+  {
+    "MONTH": 3,
+    "AREA": "PKG",
+    "SITE": "IC",
+    "OPER": "D/A",
+    "FACTOR": "LINEARITY",
+    "VALUE": 0.05
+  },
+  {
+    "MONTH": 3,
+    "AREA": "PKG",
+    "SITE": "IC",
+    "OPER": "FCB",
+    "FACTOR": "투자가동률",
+    "VALUE": 0.266065662
+  },
+  {
+    "MONTH": 3,
+    "AREA": "PKG",
+    "SITE": "IC",
+    "OPER": "FCB",
+    "FACTOR": "NO WIP",
+    "VALUE": 0.733934338
+  },
+  {
+    "MONTH": 3,
+    "AREA": "PKG",
+    "SITE": "IC",
+    "OPER": "FCB",
+    "FACTOR": "LINEARITY",
+    "VALUE": 0.05
+  },
+  {
+    "MONTH": 3,
+    "AREA": "PKG",
+    "SITE": "IC",
+    "OPER": "W/B",
+    "FACTOR": "투자가동률",
+    "VALUE": 0.687090925
+  },
+  {
+    "MONTH": 3,
+    "AREA": "PKG",
+    "SITE": "IC",
+    "OPER": "W/B",
+    "FACTOR": "NO WIP",
+    "VALUE": 0.312909075
+  },
+  {
+    "MONTH": 3,
+    "AREA": "PKG",
+    "SITE": "IC",
+    "OPER": "W/B",
+    "FACTOR": "LINEARITY",
+    "VALUE": 0.05
+  },
+  {
+    "MONTH": 3,
+    "AREA": "PKG",
+    "SITE": "IC",
+    "OPER": "S/G",
+    "FACTOR": "투자가동률",
+    "VALUE": 0.39804932
+  },
+  {
+    "MONTH": 3,
+    "AREA": "PKG",
+    "SITE": "IC",
+    "OPER": "S/G",
+    "FACTOR": "NO WIP",
+    "VALUE": 0.60195068
+  },
+  {
+    "MONTH": 3,
+    "AREA": "PKG",
+    "SITE": "IC",
+    "OPER": "S/G",
+    "FACTOR": "LINEARITY",
+    "VALUE": 0.05
+  },
+  {
+    "MONTH": 4,
+    "AREA": "PKG",
+    "SITE": "IC",
+    "OPER": "B/G",
+    "FACTOR": "투자가동률",
+    "VALUE": 0.29582414
+  },
+  {
+    "MONTH": 4,
+    "AREA": "PKG",
+    "SITE": "IC",
+    "OPER": "B/G",
+    "FACTOR": "NO WIP",
+    "VALUE": 0.70417586
+  },
+  {
+    "MONTH": 4,
+    "AREA": "PKG",
+    "SITE": "IC",
+    "OPER": "B/G",
+    "FACTOR": "LINEARITY",
+    "VALUE": 0.05
+  },
+  {
+    "MONTH": 4,
+    "AREA": "PKG",
+    "SITE": "IC",
+    "OPER": "D/A",
+    "FACTOR": "투자가동률",
+    "VALUE": 0.550170938
+  },
+  {
+    "MONTH": 4,
+    "AREA": "PKG",
+    "SITE": "IC",
+    "OPER": "D/A",
+    "FACTOR": "NO WIP",
+    "VALUE": 0.449829062
+  },
+  {
+    "MONTH": 4,
+    "AREA": "PKG",
+    "SITE": "IC",
+    "OPER": "D/A",
+    "FACTOR": "LINEARITY",
+    "VALUE": 0.05
+  },
+  {
+    "MONTH": 4,
+    "AREA": "PKG",
+    "SITE": "IC",
+    "OPER": "FCB",
+    "FACTOR": "투자가동률",
+    "VALUE": 0.197601144
+  },
+  {
+    "MONTH": 4,
+    "AREA": "PKG",
+    "SITE": "IC",
+    "OPER": "FCB",
+    "FACTOR": "NO WIP",
+    "VALUE": 0.802398856
+  },
+  {
+    "MONTH": 4,
+    "AREA": "PKG",
+    "SITE": "IC",
+    "OPER": "FCB",
+    "FACTOR": "LINEARITY",
+    "VALUE": 0.05
+  },
+  {
+    "MONTH": 4,
+    "AREA": "PKG",
+    "SITE": "IC",
+    "OPER": "W/B",
+    "FACTOR": "투자가동률",
+    "VALUE": 0.264347471
+  },
+  {
+    "MONTH": 4,
+    "AREA": "PKG",
+    "SITE": "IC",
+    "OPER": "W/B",
+    "FACTOR": "NO WIP",
+    "VALUE": 0.735652529
+  },
+  {
+    "MONTH": 4,
+    "AREA": "PKG",
+    "SITE": "IC",
+    "OPER": "W/B",
+    "FACTOR": "LINEARITY",
+    "VALUE": 0.05
+  },
+  {
+    "MONTH": 4,
+    "AREA": "PKG",
+    "SITE": "IC",
+    "OPER": "S/G",
+    "FACTOR": "투자가동률",
+    "VALUE": 0.011314563
+  },
+  {
+    "MONTH": 4,
+    "AREA": "PKG",
+    "SITE": "IC",
+    "OPER": "S/G",
+    "FACTOR": "NO WIP",
+    "VALUE": 0.988685437
+  },
+  {
+    "MONTH": 4,
+    "AREA": "PKG",
+    "SITE": "IC",
+    "OPER": "S/G",
+    "FACTOR": "LINEARITY",
+    "VALUE": 0.05
+  },
+  {
+    "MONTH": 5,
+    "AREA": "PKG",
+    "SITE": "IC",
+    "OPER": "B/G",
+    "FACTOR": "투자가동률",
+    "VALUE": 0.037153798
+  },
+  {
+    "MONTH": 5,
+    "AREA": "PKG",
+    "SITE": "IC",
+    "OPER": "B/G",
+    "FACTOR": "NO WIP",
+    "VALUE": 0.962846202
+  },
+  {
+    "MONTH": 5,
+    "AREA": "PKG",
+    "SITE": "IC",
+    "OPER": "B/G",
+    "FACTOR": "LINEARITY",
+    "VALUE": 0.05
+  },
+  {
+    "MONTH": 5,
+    "AREA": "PKG",
+    "SITE": "IC",
+    "OPER": "D/A",
+    "FACTOR": "투자가동률",
+    "VALUE": 0.972864663
+  },
+  {
+    "MONTH": 5,
+    "AREA": "PKG",
+    "SITE": "IC",
+    "OPER": "D/A",
+    "FACTOR": "NO WIP",
+    "VALUE": 0.027135337
+  },
+  {
+    "MONTH": 5,
+    "AREA": "PKG",
+    "SITE": "IC",
+    "OPER": "D/A",
+    "FACTOR": "LINEARITY",
+    "VALUE": 0.05
+  },
+  {
+    "MONTH": 5,
+    "AREA": "PKG",
+    "SITE": "IC",
+    "OPER": "FCB",
+    "FACTOR": "투자가동률",
+    "VALUE": 0.862741409
+  },
+  {
+    "MONTH": 5,
+    "AREA": "PKG",
+    "SITE": "IC",
+    "OPER": "FCB",
+    "FACTOR": "NO WIP",
+    "VALUE": 0.137258591
+  },
+  {
+    "MONTH": 5,
+    "AREA": "PKG",
+    "SITE": "IC",
+    "OPER": "FCB",
+    "FACTOR": "LINEARITY",
+    "VALUE": 0.05
+  },
+  {
+    "MONTH": 5,
+    "AREA": "PKG",
+    "SITE": "IC",
+    "OPER": "W/B",
+    "FACTOR": "투자가동률",
+    "VALUE": 0.832333883
+  },
+  {
+    "MONTH": 5,
+    "AREA": "PKG",
+    "SITE": "IC",
+    "OPER": "W/B",
+    "FACTOR": "NO WIP",
+    "VALUE": 0.167666117
+  },
+  {
+    "MONTH": 5,
+    "AREA": "PKG",
+    "SITE": "IC",
+    "OPER": "W/B",
+    "FACTOR": "LINEARITY",
+    "VALUE": 0.05
+  },
+  {
+    "MONTH": 5,
+    "AREA": "PKG",
+    "SITE": "IC",
+    "OPER": "S/G",
+    "FACTOR": "투자가동률",
+    "VALUE": 0.705821719
+  },
+  {
+    "MONTH": 5,
+    "AREA": "PKG",
+    "SITE": "IC",
+    "OPER": "S/G",
+    "FACTOR": "NO WIP",
+    "VALUE": 0.294178281
+  },
+  {
+    "MONTH": 5,
+    "AREA": "PKG",
+    "SITE": "IC",
+    "OPER": "S/G",
+    "FACTOR": "LINEARITY",
+    "VALUE": 0.05
+  },
+  {
+    "MONTH": 6,
+    "AREA": "PKG",
+    "SITE": "IC",
+    "OPER": "B/G",
+    "FACTOR": "투자가동률",
+    "VALUE": 0.094973494
+  },
+  {
+    "MONTH": 6,
+    "AREA": "PKG",
+    "SITE": "IC",
+    "OPER": "B/G",
+    "FACTOR": "NO WIP",
+    "VALUE": 0.905026506
+  },
+  {
+    "MONTH": 6,
+    "AREA": "PKG",
+    "SITE": "IC",
+    "OPER": "B/G",
+    "FACTOR": "LINEARITY",
+    "VALUE": 0.05
+  },
+  {
+    "MONTH": 6,
+    "AREA": "PKG",
+    "SITE": "IC",
+    "OPER": "D/A",
+    "FACTOR": "투자가동률",
+    "VALUE": 0.09123486
+  },
+  {
+    "MONTH": 6,
+    "AREA": "PKG",
+    "SITE": "IC",
+    "OPER": "D/A",
+    "FACTOR": "NO WIP",
+    "VALUE": 0.90876514
+  },
+  {
+    "MONTH": 6,
+    "AREA": "PKG",
+    "SITE": "IC",
+    "OPER": "D/A",
+    "FACTOR": "LINEARITY",
+    "VALUE": 0.05
+  },
+  {
+    "MONTH": 6,
+    "AREA": "PKG",
+    "SITE": "IC",
+    "OPER": "FCB",
+    "FACTOR": "투자가동률",
+    "VALUE": 0.031785152
+  },
+  {
+    "MONTH": 6,
+    "AREA": "PKG",
+    "SITE": "IC",
+    "OPER": "FCB",
+    "FACTOR": "NO WIP",
+    "VALUE": 0.968214848
+  },
+  {
+    "MONTH": 6,
+    "AREA": "PKG",
+    "SITE": "IC",
+    "OPER": "FCB",
+    "FACTOR": "LINEARITY",
+    "VALUE": 0.05
+  },
+  {
+    "MONTH": 6,
+    "AREA": "PKG",
+    "SITE": "IC",
+    "OPER": "W/B",
+    "FACTOR": "투자가동률",
+    "VALUE": 0.59821071
+  },
+  {
+    "MONTH": 6,
+    "AREA": "PKG",
+    "SITE": "IC",
+    "OPER": "W/B",
+    "FACTOR": "NO WIP",
+    "VALUE": 0.40178929
+  },
+  {
+    "MONTH": 6,
+    "AREA": "PKG",
+    "SITE": "IC",
+    "OPER": "W/B",
+    "FACTOR": "LINEARITY",
+    "VALUE": 0.05
+  },
+  {
+    "MONTH": 6,
+    "AREA": "PKG",
+    "SITE": "IC",
+    "OPER": "S/G",
+    "FACTOR": "투자가동률",
+    "VALUE": 0.38388477
+  },
+  {
+    "MONTH": 6,
+    "AREA": "PKG",
+    "SITE": "IC",
+    "OPER": "S/G",
+    "FACTOR": "NO WIP",
+    "VALUE": 0.61611523
+  },
+  {
+    "MONTH": 6,
+    "AREA": "PKG",
+    "SITE": "IC",
+    "OPER": "S/G",
+    "FACTOR": "LINEARITY",
+    "VALUE": 0.05
+  },
+  {
+    "MONTH": 1,
+    "AREA": "PKG",
+    "SITE": "CJ",
+    "OPER": "B/G",
+    "FACTOR": "투자가동률",
+    "VALUE": 0.189051591
+  },
+  {
+    "MONTH": 1,
+    "AREA": "PKG",
+    "SITE": "CJ",
+    "OPER": "B/G",
+    "FACTOR": "NO WIP",
+    "VALUE": 0.810948409
+  },
+  {
+    "MONTH": 1,
+    "AREA": "PKG",
+    "SITE": "CJ",
+    "OPER": "B/G",
+    "FACTOR": "LINEARITY",
+    "VALUE": 0.05
+  },
+  {
+    "MONTH": 1,
+    "AREA": "PKG",
+    "SITE": "CJ",
+    "OPER": "D/A",
+    "FACTOR": "투자가동률",
+    "VALUE": 0.980600291
+  },
+  {
+    "MONTH": 1,
+    "AREA": "PKG",
+    "SITE": "CJ",
+    "OPER": "D/A",
+    "FACTOR": "NO WIP",
+    "VALUE": 0.019399709
+  },
+  {
+    "MONTH": 1,
+    "AREA": "PKG",
+    "SITE": "CJ",
+    "OPER": "D/A",
+    "FACTOR": "LINEARITY",
+    "VALUE": 0.05
+  },
+  {
+    "MONTH": 1,
+    "AREA": "PKG",
+    "SITE": "CJ",
+    "OPER": "FCB",
+    "FACTOR": "투자가동률",
+    "VALUE": 0.517281349
+  },
+  {
+    "MONTH": 1,
+    "AREA": "PKG",
+    "SITE": "CJ",
+    "OPER": "FCB",
+    "FACTOR": "NO WIP",
+    "VALUE": 0.482718651
+  },
+  {
+    "MONTH": 1,
+    "AREA": "PKG",
+    "SITE": "CJ",
+    "OPER": "FCB",
+    "FACTOR": "LINEARITY",
+    "VALUE": 0.05
+  },
+  {
+    "MONTH": 1,
+    "AREA": "PKG",
+    "SITE": "CJ",
+    "OPER": "W/B",
+    "FACTOR": "투자가동률",
+    "VALUE": 0.526535815
+  },
+  {
+    "MONTH": 1,
+    "AREA": "PKG",
+    "SITE": "CJ",
+    "OPER": "W/B",
+    "FACTOR": "NO WIP",
+    "VALUE": 0.473464185
+  },
+  {
+    "MONTH": 1,
+    "AREA": "PKG",
+    "SITE": "CJ",
+    "OPER": "W/B",
+    "FACTOR": "LINEARITY",
+    "VALUE": 0.05
+  },
+  {
+    "MONTH": 1,
+    "AREA": "PKG",
+    "SITE": "CJ",
+    "OPER": "S/G",
+    "FACTOR": "투자가동률",
+    "VALUE": 0.52417784
+  },
+  {
+    "MONTH": 1,
+    "AREA": "PKG",
+    "SITE": "CJ",
+    "OPER": "S/G",
+    "FACTOR": "NO WIP",
+    "VALUE": 0.47582216
+  },
+  {
+    "MONTH": 1,
+    "AREA": "PKG",
+    "SITE": "CJ",
+    "OPER": "S/G",
+    "FACTOR": "LINEARITY",
+    "VALUE": 0.05
+  },
+  {
+    "MONTH": 2,
+    "AREA": "PKG",
+    "SITE": "CJ",
+    "OPER": "B/G",
+    "FACTOR": "투자가동률",
+    "VALUE": 0.932372162
+  },
+  {
+    "MONTH": 2,
+    "AREA": "PKG",
+    "SITE": "CJ",
+    "OPER": "B/G",
+    "FACTOR": "NO WIP",
+    "VALUE": 0.067627838
+  },
+  {
+    "MONTH": 2,
+    "AREA": "PKG",
+    "SITE": "CJ",
+    "OPER": "B/G",
+    "FACTOR": "LINEARITY",
+    "VALUE": 0.05
+  },
+  {
+    "MONTH": 2,
+    "AREA": "PKG",
+    "SITE": "CJ",
+    "OPER": "D/A",
+    "FACTOR": "투자가동률",
+    "VALUE": 0.519075741
+  },
+  {
+    "MONTH": 2,
+    "AREA": "PKG",
+    "SITE": "CJ",
+    "OPER": "D/A",
+    "FACTOR": "NO WIP",
+    "VALUE": 0.480924259
+  },
+  {
+    "MONTH": 2,
+    "AREA": "PKG",
+    "SITE": "CJ",
+    "OPER": "D/A",
+    "FACTOR": "LINEARITY",
+    "VALUE": 0.05
+  },
+  {
+    "MONTH": 2,
+    "AREA": "PKG",
+    "SITE": "CJ",
+    "OPER": "FCB",
+    "FACTOR": "투자가동률",
+    "VALUE": 0.101202153
+  },
+  {
+    "MONTH": 2,
+    "AREA": "PKG",
+    "SITE": "CJ",
+    "OPER": "FCB",
+    "FACTOR": "NO WIP",
+    "VALUE": 0.898797847
+  },
+  {
+    "MONTH": 2,
+    "AREA": "PKG",
+    "SITE": "CJ",
+    "OPER": "FCB",
+    "FACTOR": "LINEARITY",
+    "VALUE": 0.05
+  },
+  {
+    "MONTH": 2,
+    "AREA": "PKG",
+    "SITE": "CJ",
+    "OPER": "W/B",
+    "FACTOR": "투자가동률",
+    "VALUE": 0.628698405
+  },
+  {
+    "MONTH": 2,
+    "AREA": "PKG",
+    "SITE": "CJ",
+    "OPER": "W/B",
+    "FACTOR": "NO WIP",
+    "VALUE": 0.371301595
+  },
+  {
+    "MONTH": 2,
+    "AREA": "PKG",
+    "SITE": "CJ",
+    "OPER": "W/B",
+    "FACTOR": "LINEARITY",
+    "VALUE": 0.05
+  },
+  {
+    "MONTH": 2,
+    "AREA": "PKG",
+    "SITE": "CJ",
+    "OPER": "S/G",
+    "FACTOR": "투자가동률",
+    "VALUE": 0.276710245
+  },
+  {
+    "MONTH": 2,
+    "AREA": "PKG",
+    "SITE": "CJ",
+    "OPER": "S/G",
+    "FACTOR": "NO WIP",
+    "VALUE": 0.723289755
+  },
+  {
+    "MONTH": 2,
+    "AREA": "PKG",
+    "SITE": "CJ",
+    "OPER": "S/G",
+    "FACTOR": "LINEARITY",
+    "VALUE": 0.05
+  },
+  {
+    "MONTH": 3,
+    "AREA": "PKG",
+    "SITE": "CJ",
+    "OPER": "B/G",
+    "FACTOR": "투자가동률",
+    "VALUE": 0.295405493
+  },
+  {
+    "MONTH": 3,
+    "AREA": "PKG",
+    "SITE": "CJ",
+    "OPER": "B/G",
+    "FACTOR": "NO WIP",
+    "VALUE": 0.704594507
+  },
+  {
+    "MONTH": 3,
+    "AREA": "PKG",
+    "SITE": "CJ",
+    "OPER": "B/G",
+    "FACTOR": "LINEARITY",
+    "VALUE": 0.05
+  },
+  {
+    "MONTH": 3,
+    "AREA": "PKG",
+    "SITE": "CJ",
+    "OPER": "D/A",
+    "FACTOR": "투자가동률",
+    "VALUE": 0.556276576
+  },
+  {
+    "MONTH": 3,
+    "AREA": "PKG",
+    "SITE": "CJ",
+    "OPER": "D/A",
+    "FACTOR": "NO WIP",
+    "VALUE": 0.443723424
+  },
+  {
+    "MONTH": 3,
+    "AREA": "PKG",
+    "SITE": "CJ",
+    "OPER": "D/A",
+    "FACTOR": "LINEARITY",
+    "VALUE": 0.05
+  },
+  {
+    "MONTH": 3,
+    "AREA": "PKG",
+    "SITE": "CJ",
+    "OPER": "FCB",
+    "FACTOR": "투자가동률",
+    "VALUE": 0.266065662
+  },
+  {
+    "MONTH": 3,
+    "AREA": "PKG",
+    "SITE": "CJ",
+    "OPER": "FCB",
+    "FACTOR": "NO WIP",
+    "VALUE": 0.733934338
+  },
+  {
+    "MONTH": 3,
+    "AREA": "PKG",
+    "SITE": "CJ",
+    "OPER": "FCB",
+    "FACTOR": "LINEARITY",
+    "VALUE": 0.05
+  },
+  {
+    "MONTH": 3,
+    "AREA": "PKG",
+    "SITE": "CJ",
+    "OPER": "W/B",
+    "FACTOR": "투자가동률",
+    "VALUE": 0.687090925
+  },
+  {
+    "MONTH": 3,
+    "AREA": "PKG",
+    "SITE": "CJ",
+    "OPER": "W/B",
+    "FACTOR": "NO WIP",
+    "VALUE": 0.312909075
+  },
+  {
+    "MONTH": 3,
+    "AREA": "PKG",
+    "SITE": "CJ",
+    "OPER": "W/B",
+    "FACTOR": "LINEARITY",
+    "VALUE": 0.05
+  },
+  {
+    "MONTH": 3,
+    "AREA": "PKG",
+    "SITE": "CJ",
+    "OPER": "S/G",
+    "FACTOR": "투자가동률",
+    "VALUE": 0.39804932
+  },
+  {
+    "MONTH": 3,
+    "AREA": "PKG",
+    "SITE": "CJ",
+    "OPER": "S/G",
+    "FACTOR": "NO WIP",
+    "VALUE": 0.60195068
+  },
+  {
+    "MONTH": 3,
+    "AREA": "PKG",
+    "SITE": "CJ",
+    "OPER": "S/G",
+    "FACTOR": "LINEARITY",
+    "VALUE": 0.05
+  },
+  {
+    "MONTH": 4,
+    "AREA": "PKG",
+    "SITE": "CJ",
+    "OPER": "B/G",
+    "FACTOR": "투자가동률",
+    "VALUE": 0.29582414
+  },
+  {
+    "MONTH": 4,
+    "AREA": "PKG",
+    "SITE": "CJ",
+    "OPER": "B/G",
+    "FACTOR": "NO WIP",
+    "VALUE": 0.70417586
+  },
+  {
+    "MONTH": 4,
+    "AREA": "PKG",
+    "SITE": "CJ",
+    "OPER": "B/G",
+    "FACTOR": "LINEARITY",
+    "VALUE": 0.05
+  },
+  {
+    "MONTH": 4,
+    "AREA": "PKG",
+    "SITE": "CJ",
+    "OPER": "D/A",
+    "FACTOR": "투자가동률",
+    "VALUE": 0.550170938
+  },
+  {
+    "MONTH": 4,
+    "AREA": "PKG",
+    "SITE": "CJ",
+    "OPER": "D/A",
+    "FACTOR": "NO WIP",
+    "VALUE": 0.449829062
+  },
+  {
+    "MONTH": 4,
+    "AREA": "PKG",
+    "SITE": "CJ",
+    "OPER": "D/A",
+    "FACTOR": "LINEARITY",
+    "VALUE": 0.05
+  },
+  {
+    "MONTH": 4,
+    "AREA": "PKG",
+    "SITE": "CJ",
+    "OPER": "FCB",
+    "FACTOR": "투자가동률",
+    "VALUE": 0.197601144
+  },
+  {
+    "MONTH": 4,
+    "AREA": "PKG",
+    "SITE": "CJ",
+    "OPER": "FCB",
+    "FACTOR": "NO WIP",
+    "VALUE": 0.802398856
+  },
+  {
+    "MONTH": 4,
+    "AREA": "PKG",
+    "SITE": "CJ",
+    "OPER": "FCB",
+    "FACTOR": "LINEARITY",
+    "VALUE": 0.05
+  },
+  {
+    "MONTH": 4,
+    "AREA": "PKG",
+    "SITE": "CJ",
+    "OPER": "W/B",
+    "FACTOR": "투자가동률",
+    "VALUE": 0.264347471
+  },
+  {
+    "MONTH": 4,
+    "AREA": "PKG",
+    "SITE": "CJ",
+    "OPER": "W/B",
+    "FACTOR": "NO WIP",
+    "VALUE": 0.735652529
+  },
+  {
+    "MONTH": 4,
+    "AREA": "PKG",
+    "SITE": "CJ",
+    "OPER": "W/B",
+    "FACTOR": "LINEARITY",
+    "VALUE": 0.05
+  },
+  {
+    "MONTH": 4,
+    "AREA": "PKG",
+    "SITE": "CJ",
+    "OPER": "S/G",
+    "FACTOR": "투자가동률",
+    "VALUE": 0.011314563
+  },
+  {
+    "MONTH": 4,
+    "AREA": "PKG",
+    "SITE": "CJ",
+    "OPER": "S/G",
+    "FACTOR": "NO WIP",
+    "VALUE": 0.988685437
+  },
+  {
+    "MONTH": 4,
+    "AREA": "PKG",
+    "SITE": "CJ",
+    "OPER": "S/G",
+    "FACTOR": "LINEARITY",
+    "VALUE": 0.05
+  },
+  {
+    "MONTH": 5,
+    "AREA": "PKG",
+    "SITE": "CJ",
+    "OPER": "B/G",
+    "FACTOR": "투자가동률",
+    "VALUE": 0.037153798
+  },
+  {
+    "MONTH": 5,
+    "AREA": "PKG",
+    "SITE": "CJ",
+    "OPER": "B/G",
+    "FACTOR": "NO WIP",
+    "VALUE": 0.962846202
+  },
+  {
+    "MONTH": 5,
+    "AREA": "PKG",
+    "SITE": "CJ",
+    "OPER": "B/G",
+    "FACTOR": "LINEARITY",
+    "VALUE": 0.05
+  },
+  {
+    "MONTH": 5,
+    "AREA": "PKG",
+    "SITE": "CJ",
+    "OPER": "D/A",
+    "FACTOR": "투자가동률",
+    "VALUE": 0.972864663
+  },
+  {
+    "MONTH": 5,
+    "AREA": "PKG",
+    "SITE": "CJ",
+    "OPER": "D/A",
+    "FACTOR": "NO WIP",
+    "VALUE": 0.027135337
+  },
+  {
+    "MONTH": 5,
+    "AREA": "PKG",
+    "SITE": "CJ",
+    "OPER": "D/A",
+    "FACTOR": "LINEARITY",
+    "VALUE": 0.05
+  },
+  {
+    "MONTH": 5,
+    "AREA": "PKG",
+    "SITE": "CJ",
+    "OPER": "FCB",
+    "FACTOR": "투자가동률",
+    "VALUE": 0.862741409
+  },
+  {
+    "MONTH": 5,
+    "AREA": "PKG",
+    "SITE": "CJ",
+    "OPER": "FCB",
+    "FACTOR": "NO WIP",
+    "VALUE": 0.137258591
+  },
+  {
+    "MONTH": 5,
+    "AREA": "PKG",
+    "SITE": "CJ",
+    "OPER": "FCB",
+    "FACTOR": "LINEARITY",
+    "VALUE": 0.05
+  },
+  {
+    "MONTH": 5,
+    "AREA": "PKG",
+    "SITE": "CJ",
+    "OPER": "W/B",
+    "FACTOR": "투자가동률",
+    "VALUE": 0.832333883
+  },
+  {
+    "MONTH": 5,
+    "AREA": "PKG",
+    "SITE": "CJ",
+    "OPER": "W/B",
+    "FACTOR": "NO WIP",
+    "VALUE": 0.167666117
+  },
+  {
+    "MONTH": 5,
+    "AREA": "PKG",
+    "SITE": "CJ",
+    "OPER": "W/B",
+    "FACTOR": "LINEARITY",
+    "VALUE": 0.05
+  },
+  {
+    "MONTH": 5,
+    "AREA": "PKG",
+    "SITE": "CJ",
+    "OPER": "S/G",
+    "FACTOR": "투자가동률",
+    "VALUE": 0.705821719
+  },
+  {
+    "MONTH": 5,
+    "AREA": "PKG",
+    "SITE": "CJ",
+    "OPER": "S/G",
+    "FACTOR": "NO WIP",
+    "VALUE": 0.294178281
+  },
+  {
+    "MONTH": 5,
+    "AREA": "PKG",
+    "SITE": "CJ",
+    "OPER": "S/G",
+    "FACTOR": "LINEARITY",
+    "VALUE": 0.05
+  },
+  {
+    "MONTH": 6,
+    "AREA": "PKG",
+    "SITE": "CJ",
+    "OPER": "B/G",
+    "FACTOR": "투자가동률",
+    "VALUE": 0.094973494
+  },
+  {
+    "MONTH": 6,
+    "AREA": "PKG",
+    "SITE": "CJ",
+    "OPER": "B/G",
+    "FACTOR": "NO WIP",
+    "VALUE": 0.905026506
+  },
+  {
+    "MONTH": 6,
+    "AREA": "PKG",
+    "SITE": "CJ",
+    "OPER": "B/G",
+    "FACTOR": "LINEARITY",
+    "VALUE": 0.05
+  },
+  {
+    "MONTH": 6,
+    "AREA": "PKG",
+    "SITE": "CJ",
+    "OPER": "D/A",
+    "FACTOR": "투자가동률",
+    "VALUE": 0.09123486
+  },
+  {
+    "MONTH": 6,
+    "AREA": "PKG",
+    "SITE": "CJ",
+    "OPER": "D/A",
+    "FACTOR": "NO WIP",
+    "VALUE": 0.90876514
+  },
+  {
+    "MONTH": 6,
+    "AREA": "PKG",
+    "SITE": "CJ",
+    "OPER": "D/A",
+    "FACTOR": "LINEARITY",
+    "VALUE": 0.05
+  },
+  {
+    "MONTH": 6,
+    "AREA": "PKG",
+    "SITE": "CJ",
+    "OPER": "FCB",
+    "FACTOR": "투자가동률",
+    "VALUE": 0.031785152
+  },
+  {
+    "MONTH": 6,
+    "AREA": "PKG",
+    "SITE": "CJ",
+    "OPER": "FCB",
+    "FACTOR": "NO WIP",
+    "VALUE": 0.968214848
+  },
+  {
+    "MONTH": 6,
+    "AREA": "PKG",
+    "SITE": "CJ",
+    "OPER": "FCB",
+    "FACTOR": "LINEARITY",
+    "VALUE": 0.05
+  },
+  {
+    "MONTH": 6,
+    "AREA": "PKG",
+    "SITE": "CJ",
+    "OPER": "W/B",
+    "FACTOR": "투자가동률",
+    "VALUE": 0.59821071
+  },
+  {
+    "MONTH": 6,
+    "AREA": "PKG",
+    "SITE": "CJ",
+    "OPER": "W/B",
+    "FACTOR": "NO WIP",
+    "VALUE": 0.40178929
+  },
+  {
+    "MONTH": 6,
+    "AREA": "PKG",
+    "SITE": "CJ",
+    "OPER": "W/B",
+    "FACTOR": "LINEARITY",
+    "VALUE": 0.05
+  },
+  {
+    "MONTH": 6,
+    "AREA": "PKG",
+    "SITE": "CJ",
+    "OPER": "S/G",
+    "FACTOR": "투자가동률",
+    "VALUE": 0.38388477
+  },
+  {
+    "MONTH": 6,
+    "AREA": "PKG",
+    "SITE": "CJ",
+    "OPER": "S/G",
+    "FACTOR": "NO WIP",
+    "VALUE": 0.61611523
+  },
+  {
+    "MONTH": 6,
+    "AREA": "PKG",
+    "SITE": "CJ",
+    "OPER": "S/G",
+    "FACTOR": "LINEARITY",
+    "VALUE": 0.05
+  },
+
+  {
+    "MONTH": 1,
+    "AREA": "PKG",
+    "SITE": "CQ",
+    "OPER": "B/G",
+    "FACTOR": "투자가동률",
+    "VALUE": 0.189051591
+  },
+  {
+    "MONTH": 1,
+    "AREA": "PKG",
+    "SITE": "CQ",
+    "OPER": "B/G",
+    "FACTOR": "NO WIP",
+    "VALUE": 0.810948409
+  },
+  {
+    "MONTH": 1,
+    "AREA": "PKG",
+    "SITE": "CQ",
+    "OPER": "B/G",
+    "FACTOR": "LINEARITY",
+    "VALUE": 0.05
+  },
+  {
+    "MONTH": 1,
+    "AREA": "PKG",
+    "SITE": "CQ",
+    "OPER": "D/A",
+    "FACTOR": "투자가동률",
+    "VALUE": 0.980600291
+  },
+  {
+    "MONTH": 1,
+    "AREA": "PKG",
+    "SITE": "CQ",
+    "OPER": "D/A",
+    "FACTOR": "NO WIP",
+    "VALUE": 0.019399709
+  },
+  {
+    "MONTH": 1,
+    "AREA": "PKG",
+    "SITE": "CQ",
+    "OPER": "D/A",
+    "FACTOR": "LINEARITY",
+    "VALUE": 0.05
+  },
+  {
+    "MONTH": 1,
+    "AREA": "PKG",
+    "SITE": "CQ",
+    "OPER": "FCB",
+    "FACTOR": "투자가동률",
+    "VALUE": 0.517281349
+  },
+  {
+    "MONTH": 1,
+    "AREA": "PKG",
+    "SITE": "CQ",
+    "OPER": "FCB",
+    "FACTOR": "NO WIP",
+    "VALUE": 0.482718651
+  },
+  {
+    "MONTH": 1,
+    "AREA": "PKG",
+    "SITE": "CQ",
+    "OPER": "FCB",
+    "FACTOR": "LINEARITY",
+    "VALUE": 0.05
+  },
+  {
+    "MONTH": 1,
+    "AREA": "PKG",
+    "SITE": "CQ",
+    "OPER": "W/B",
+    "FACTOR": "투자가동률",
+    "VALUE": 0.526535815
+  },
+  {
+    "MONTH": 1,
+    "AREA": "PKG",
+    "SITE": "CQ",
+    "OPER": "W/B",
+    "FACTOR": "NO WIP",
+    "VALUE": 0.473464185
+  },
+  {
+    "MONTH": 1,
+    "AREA": "PKG",
+    "SITE": "CQ",
+    "OPER": "W/B",
+    "FACTOR": "LINEARITY",
+    "VALUE": 0.05
+  },
+  {
+    "MONTH": 1,
+    "AREA": "PKG",
+    "SITE": "CQ",
+    "OPER": "S/G",
+    "FACTOR": "투자가동률",
+    "VALUE": 0.52417784
+  },
+  {
+    "MONTH": 1,
+    "AREA": "PKG",
+    "SITE": "CQ",
+    "OPER": "S/G",
+    "FACTOR": "NO WIP",
+    "VALUE": 0.47582216
+  },
+  {
+    "MONTH": 1,
+    "AREA": "PKG",
+    "SITE": "CQ",
+    "OPER": "S/G",
+    "FACTOR": "LINEARITY",
+    "VALUE": 0.05
+  },
+  {
+    "MONTH": 2,
+    "AREA": "PKG",
+    "SITE": "CQ",
+    "OPER": "B/G",
+    "FACTOR": "투자가동률",
+    "VALUE": 0.932372162
+  },
+  {
+    "MONTH": 2,
+    "AREA": "PKG",
+    "SITE": "CQ",
+    "OPER": "B/G",
+    "FACTOR": "NO WIP",
+    "VALUE": 0.067627838
+  },
+  {
+    "MONTH": 2,
+    "AREA": "PKG",
+    "SITE": "CQ",
+    "OPER": "B/G",
+    "FACTOR": "LINEARITY",
+    "VALUE": 0.05
+  },
+  {
+    "MONTH": 2,
+    "AREA": "PKG",
+    "SITE": "CQ",
+    "OPER": "D/A",
+    "FACTOR": "투자가동률",
+    "VALUE": 0.519075741
+  },
+  {
+    "MONTH": 2,
+    "AREA": "PKG",
+    "SITE": "CQ",
+    "OPER": "D/A",
+    "FACTOR": "NO WIP",
+    "VALUE": 0.480924259
+  },
+  {
+    "MONTH": 2,
+    "AREA": "PKG",
+    "SITE": "CQ",
+    "OPER": "D/A",
+    "FACTOR": "LINEARITY",
+    "VALUE": 0.05
+  },
+  {
+    "MONTH": 2,
+    "AREA": "PKG",
+    "SITE": "CQ",
+    "OPER": "FCB",
+    "FACTOR": "투자가동률",
+    "VALUE": 0.101202153
+  },
+  {
+    "MONTH": 2,
+    "AREA": "PKG",
+    "SITE": "CQ",
+    "OPER": "FCB",
+    "FACTOR": "NO WIP",
+    "VALUE": 0.898797847
+  },
+  {
+    "MONTH": 2,
+    "AREA": "PKG",
+    "SITE": "CQ",
+    "OPER": "FCB",
+    "FACTOR": "LINEARITY",
+    "VALUE": 0.05
+  },
+  {
+    "MONTH": 2,
+    "AREA": "PKG",
+    "SITE": "CQ",
+    "OPER": "W/B",
+    "FACTOR": "투자가동률",
+    "VALUE": 0.628698405
+  },
+  {
+    "MONTH": 2,
+    "AREA": "PKG",
+    "SITE": "CQ",
+    "OPER": "W/B",
+    "FACTOR": "NO WIP",
+    "VALUE": 0.371301595
+  },
+  {
+    "MONTH": 2,
+    "AREA": "PKG",
+    "SITE": "CQ",
+    "OPER": "W/B",
+    "FACTOR": "LINEARITY",
+    "VALUE": 0.05
+  },
+  {
+    "MONTH": 2,
+    "AREA": "PKG",
+    "SITE": "CQ",
+    "OPER": "S/G",
+    "FACTOR": "투자가동률",
+    "VALUE": 0.276710245
+  },
+  {
+    "MONTH": 2,
+    "AREA": "PKG",
+    "SITE": "CQ",
+    "OPER": "S/G",
+    "FACTOR": "NO WIP",
+    "VALUE": 0.723289755
+  },
+  {
+    "MONTH": 2,
+    "AREA": "PKG",
+    "SITE": "CQ",
+    "OPER": "S/G",
+    "FACTOR": "LINEARITY",
+    "VALUE": 0.05
+  },
+  {
+    "MONTH": 3,
+    "AREA": "PKG",
+    "SITE": "CQ",
+    "OPER": "B/G",
+    "FACTOR": "투자가동률",
+    "VALUE": 0.295405493
+  },
+  {
+    "MONTH": 3,
+    "AREA": "PKG",
+    "SITE": "CQ",
+    "OPER": "B/G",
+    "FACTOR": "NO WIP",
+    "VALUE": 0.704594507
+  },
+  {
+    "MONTH": 3,
+    "AREA": "PKG",
+    "SITE": "CQ",
+    "OPER": "B/G",
+    "FACTOR": "LINEARITY",
+    "VALUE": 0.05
+  },
+  {
+    "MONTH": 3,
+    "AREA": "PKG",
+    "SITE": "CQ",
+    "OPER": "D/A",
+    "FACTOR": "투자가동률",
+    "VALUE": 0.556276576
+  },
+  {
+    "MONTH": 3,
+    "AREA": "PKG",
+    "SITE": "CQ",
+    "OPER": "D/A",
+    "FACTOR": "NO WIP",
+    "VALUE": 0.443723424
+  },
+  {
+    "MONTH": 3,
+    "AREA": "PKG",
+    "SITE": "CQ",
+    "OPER": "D/A",
+    "FACTOR": "LINEARITY",
+    "VALUE": 0.05
+  },
+  {
+    "MONTH": 3,
+    "AREA": "PKG",
+    "SITE": "CQ",
+    "OPER": "FCB",
+    "FACTOR": "투자가동률",
+    "VALUE": 0.266065662
+  },
+  {
+    "MONTH": 3,
+    "AREA": "PKG",
+    "SITE": "CQ",
+    "OPER": "FCB",
+    "FACTOR": "NO WIP",
+    "VALUE": 0.733934338
+  },
+  {
+    "MONTH": 3,
+    "AREA": "PKG",
+    "SITE": "CQ",
+    "OPER": "FCB",
+    "FACTOR": "LINEARITY",
+    "VALUE": 0.05
+  },
+  {
+    "MONTH": 3,
+    "AREA": "PKG",
+    "SITE": "CQ",
+    "OPER": "W/B",
+    "FACTOR": "투자가동률",
+    "VALUE": 0.687090925
+  },
+  {
+    "MONTH": 3,
+    "AREA": "PKG",
+    "SITE": "CQ",
+    "OPER": "W/B",
+    "FACTOR": "NO WIP",
+    "VALUE": 0.312909075
+  },
+  {
+    "MONTH": 3,
+    "AREA": "PKG",
+    "SITE": "CQ",
+    "OPER": "W/B",
+    "FACTOR": "LINEARITY",
+    "VALUE": 0.05
+  },
+  {
+    "MONTH": 3,
+    "AREA": "PKG",
+    "SITE": "CQ",
+    "OPER": "S/G",
+    "FACTOR": "투자가동률",
+    "VALUE": 0.39804932
+  },
+  {
+    "MONTH": 3,
+    "AREA": "PKG",
+    "SITE": "CQ",
+    "OPER": "S/G",
+    "FACTOR": "NO WIP",
+    "VALUE": 0.60195068
+  },
+  {
+    "MONTH": 3,
+    "AREA": "PKG",
+    "SITE": "CQ",
+    "OPER": "S/G",
+    "FACTOR": "LINEARITY",
+    "VALUE": 0.05
+  },
+  {
+    "MONTH": 4,
+    "AREA": "PKG",
+    "SITE": "CQ",
+    "OPER": "B/G",
+    "FACTOR": "투자가동률",
+    "VALUE": 0.29582414
+  },
+  {
+    "MONTH": 4,
+    "AREA": "PKG",
+    "SITE": "CQ",
+    "OPER": "B/G",
+    "FACTOR": "NO WIP",
+    "VALUE": 0.70417586
+  },
+  {
+    "MONTH": 4,
+    "AREA": "PKG",
+    "SITE": "CQ",
+    "OPER": "B/G",
+    "FACTOR": "LINEARITY",
+    "VALUE": 0.05
+  },
+  {
+    "MONTH": 4,
+    "AREA": "PKG",
+    "SITE": "CQ",
+    "OPER": "D/A",
+    "FACTOR": "투자가동률",
+    "VALUE": 0.550170938
+  },
+  {
+    "MONTH": 4,
+    "AREA": "PKG",
+    "SITE": "CQ",
+    "OPER": "D/A",
+    "FACTOR": "NO WIP",
+    "VALUE": 0.449829062
+  },
+  {
+    "MONTH": 4,
+    "AREA": "PKG",
+    "SITE": "CQ",
+    "OPER": "D/A",
+    "FACTOR": "LINEARITY",
+    "VALUE": 0.05
+  },
+  {
+    "MONTH": 4,
+    "AREA": "PKG",
+    "SITE": "CQ",
+    "OPER": "FCB",
+    "FACTOR": "투자가동률",
+    "VALUE": 0.197601144
+  },
+  {
+    "MONTH": 4,
+    "AREA": "PKG",
+    "SITE": "CQ",
+    "OPER": "FCB",
+    "FACTOR": "NO WIP",
+    "VALUE": 0.802398856
+  },
+  {
+    "MONTH": 4,
+    "AREA": "PKG",
+    "SITE": "CQ",
+    "OPER": "FCB",
+    "FACTOR": "LINEARITY",
+    "VALUE": 0.05
+  },
+  {
+    "MONTH": 4,
+    "AREA": "PKG",
+    "SITE": "CQ",
+    "OPER": "W/B",
+    "FACTOR": "투자가동률",
+    "VALUE": 0.264347471
+  },
+  {
+    "MONTH": 4,
+    "AREA": "PKG",
+    "SITE": "CQ",
+    "OPER": "W/B",
+    "FACTOR": "NO WIP",
+    "VALUE": 0.735652529
+  },
+  {
+    "MONTH": 4,
+    "AREA": "PKG",
+    "SITE": "CQ",
+    "OPER": "W/B",
+    "FACTOR": "LINEARITY",
+    "VALUE": 0.05
+  },
+  {
+    "MONTH": 4,
+    "AREA": "PKG",
+    "SITE": "CQ",
+    "OPER": "S/G",
+    "FACTOR": "투자가동률",
+    "VALUE": 0.011314563
+  },
+  {
+    "MONTH": 4,
+    "AREA": "PKG",
+    "SITE": "CQ",
+    "OPER": "S/G",
+    "FACTOR": "NO WIP",
+    "VALUE": 0.988685437
+  },
+  {
+    "MONTH": 4,
+    "AREA": "PKG",
+    "SITE": "CQ",
+    "OPER": "S/G",
+    "FACTOR": "LINEARITY",
+    "VALUE": 0.05
+  },
+  {
+    "MONTH": 5,
+    "AREA": "PKG",
+    "SITE": "CQ",
+    "OPER": "B/G",
+    "FACTOR": "투자가동률",
+    "VALUE": 0.037153798
+  },
+  {
+    "MONTH": 5,
+    "AREA": "PKG",
+    "SITE": "CQ",
+    "OPER": "B/G",
+    "FACTOR": "NO WIP",
+    "VALUE": 0.962846202
+  },
+  {
+    "MONTH": 5,
+    "AREA": "PKG",
+    "SITE": "CQ",
+    "OPER": "B/G",
+    "FACTOR": "LINEARITY",
+    "VALUE": 0.05
+  },
+  {
+    "MONTH": 5,
+    "AREA": "PKG",
+    "SITE": "CQ",
+    "OPER": "D/A",
+    "FACTOR": "투자가동률",
+    "VALUE": 0.972864663
+  },
+  {
+    "MONTH": 5,
+    "AREA": "PKG",
+    "SITE": "CQ",
+    "OPER": "D/A",
+    "FACTOR": "NO WIP",
+    "VALUE": 0.027135337
+  },
+  {
+    "MONTH": 5,
+    "AREA": "PKG",
+    "SITE": "CQ",
+    "OPER": "D/A",
+    "FACTOR": "LINEARITY",
+    "VALUE": 0.05
+  },
+  {
+    "MONTH": 5,
+    "AREA": "PKG",
+    "SITE": "CQ",
+    "OPER": "FCB",
+    "FACTOR": "투자가동률",
+    "VALUE": 0.862741409
+  },
+  {
+    "MONTH": 5,
+    "AREA": "PKG",
+    "SITE": "CQ",
+    "OPER": "FCB",
+    "FACTOR": "NO WIP",
+    "VALUE": 0.137258591
+  },
+  {
+    "MONTH": 5,
+    "AREA": "PKG",
+    "SITE": "CQ",
+    "OPER": "FCB",
+    "FACTOR": "LINEARITY",
+    "VALUE": 0.05
+  },
+  {
+    "MONTH": 5,
+    "AREA": "PKG",
+    "SITE": "CQ",
+    "OPER": "W/B",
+    "FACTOR": "투자가동률",
+    "VALUE": 0.832333883
+  },
+  {
+    "MONTH": 5,
+    "AREA": "PKG",
+    "SITE": "CQ",
+    "OPER": "W/B",
+    "FACTOR": "NO WIP",
+    "VALUE": 0.167666117
+  },
+  {
+    "MONTH": 5,
+    "AREA": "PKG",
+    "SITE": "CQ",
+    "OPER": "W/B",
+    "FACTOR": "LINEARITY",
+    "VALUE": 0.05
+  },
+  {
+    "MONTH": 5,
+    "AREA": "PKG",
+    "SITE": "CQ",
+    "OPER": "S/G",
+    "FACTOR": "투자가동률",
+    "VALUE": 0.705821719
+  },
+  {
+    "MONTH": 5,
+    "AREA": "PKG",
+    "SITE": "CQ",
+    "OPER": "S/G",
+    "FACTOR": "NO WIP",
+    "VALUE": 0.294178281
+  },
+  {
+    "MONTH": 5,
+    "AREA": "PKG",
+    "SITE": "CQ",
+    "OPER": "S/G",
+    "FACTOR": "LINEARITY",
+    "VALUE": 0.05
+  },
+  {
+    "MONTH": 6,
+    "AREA": "PKG",
+    "SITE": "CQ",
+    "OPER": "B/G",
+    "FACTOR": "투자가동률",
+    "VALUE": 0.094973494
+  },
+  {
+    "MONTH": 6,
+    "AREA": "PKG",
+    "SITE": "CQ",
+    "OPER": "B/G",
+    "FACTOR": "NO WIP",
+    "VALUE": 0.905026506
+  },
+  {
+    "MONTH": 6,
+    "AREA": "PKG",
+    "SITE": "CQ",
+    "OPER": "B/G",
+    "FACTOR": "LINEARITY",
+    "VALUE": 0.05
+  },
+  {
+    "MONTH": 6,
+    "AREA": "PKG",
+    "SITE": "CQ",
+    "OPER": "D/A",
+    "FACTOR": "투자가동률",
+    "VALUE": 0.09123486
+  },
+  {
+    "MONTH": 6,
+    "AREA": "PKG",
+    "SITE": "CQ",
+    "OPER": "D/A",
+    "FACTOR": "NO WIP",
+    "VALUE": 0.90876514
+  },
+  {
+    "MONTH": 6,
+    "AREA": "PKG",
+    "SITE": "CQ",
+    "OPER": "D/A",
+    "FACTOR": "LINEARITY",
+    "VALUE": 0.05
+  },
+  {
+    "MONTH": 6,
+    "AREA": "PKG",
+    "SITE": "CQ",
+    "OPER": "FCB",
+    "FACTOR": "투자가동률",
+    "VALUE": 0.031785152
+  },
+  {
+    "MONTH": 6,
+    "AREA": "PKG",
+    "SITE": "CQ",
+    "OPER": "FCB",
+    "FACTOR": "NO WIP",
+    "VALUE": 0.968214848
+  },
+  {
+    "MONTH": 6,
+    "AREA": "PKG",
+    "SITE": "CQ",
+    "OPER": "FCB",
+    "FACTOR": "LINEARITY",
+    "VALUE": 0.05
+  },
+  {
+    "MONTH": 6,
+    "AREA": "PKG",
+    "SITE": "CQ",
+    "OPER": "W/B",
+    "FACTOR": "투자가동률",
+    "VALUE": 0.59821071
+  },
+  {
+    "MONTH": 6,
+    "AREA": "PKG",
+    "SITE": "CQ",
+    "OPER": "W/B",
+    "FACTOR": "NO WIP",
+    "VALUE": 0.40178929
+  },
+  {
+    "MONTH": 6,
+    "AREA": "PKG",
+    "SITE": "CQ",
+    "OPER": "W/B",
+    "FACTOR": "LINEARITY",
+    "VALUE": 0.05
+  },
+  {
+    "MONTH": 6,
+    "AREA": "PKG",
+    "SITE": "CQ",
+    "OPER": "S/G",
+    "FACTOR": "투자가동률",
+    "VALUE": 0.38388477
+  },
+  {
+    "MONTH": 6,
+    "AREA": "PKG",
+    "SITE": "CQ",
+    "OPER": "S/G",
+    "FACTOR": "NO WIP",
+    "VALUE": 0.61611523
+  },
+  {
+    "MONTH": 6,
+    "AREA": "PKG",
+    "SITE": "CQ",
+    "OPER": "S/G",
+    "FACTOR": "LINEARITY",
+    "VALUE": 0.05
+  }
+]
