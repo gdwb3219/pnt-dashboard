@@ -10,7 +10,7 @@ import {
   ResponsiveContainer,
 } from 'recharts';
 import './UtilChart.css';
-import ButtonUsage from './ButtonUsage';
+import ButtonUsage from '../ButtonUsage';
 
 // 예시용: '투자가동률'만 필터링한 데이터 가공
 const rawData = [

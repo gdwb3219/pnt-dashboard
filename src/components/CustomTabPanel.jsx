@@ -3,7 +3,8 @@ import PropTypes from 'prop-types';
 import Tabs from '@mui/material/Tabs';
 import Tab from '@mui/material/Tab';
 import Box from '@mui/material/Box';
-import UtilChart from './UtilChart';
+import UtilChart from './charts/UtilChart';
+import UtilBarChart from './charts/UtilBarChart';
 
 import {
   Container,
@@ -77,6 +78,8 @@ export default function BasicTabs() {
           <Tab label="Item One" {...a11yProps(0)} />
           <Tab label="Item Two" {...a11yProps(1)} />
           <Tab label="Item Three" {...a11yProps(2)} />
+          <Tab label="Item Four" {...a11yProps(3)} />
+          <Tab label="Item Five" {...a11yProps(4)} />
         </Tabs>
       </Box>
       <CustomTabPanel value={value} index={0}>
@@ -85,43 +88,7 @@ export default function BasicTabs() {
       </CustomTabPanel>
       <CustomTabPanel value={value} index={1}>
         Item Two
-        <Container>
-          <Row>
-            <Col>
-              <Card>
-                <Card.Body>
-                  <Card.Title>월별 가동률</Card.Title>
-                  <div style={{ width: '100%', height: 300 }}>
-                    <ResponsiveContainer>
-                      <BarChart data={data}>
-                        <XAxis dataKey="month" />
-                        <YAxis />
-                        <Tooltip />
-                        <Bar dataKey="utilization" fill="#007bff" />
-                      </BarChart>
-                    </ResponsiveContainer>
-                  </div>
-                </Card.Body>
-              </Card>
-            </Col>
-          </Row>
-          <Row className="mt-4">
-            <Col md={4}>
-              <Card bg="success" text="white">
-                <Card.Body>
-                  <Card.Title>평균 가동률</Card.Title>
-                  <Card.Text>
-                    {Math.round(
-                      data.reduce((sum, d) => sum + d.utilization, 0) /
-                        data.length
-                    )}
-                    %
-                  </Card.Text>
-                </Card.Body>
-              </Card>
-            </Col>
-          </Row>
-        </Container>
+        <UtilBarChart data={data} />
       </CustomTabPanel>
       <CustomTabPanel value={value} index={2}>
         Item Three
